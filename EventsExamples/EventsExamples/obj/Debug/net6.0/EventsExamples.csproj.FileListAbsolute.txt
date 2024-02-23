@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\EventsExamples.exe
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\EventsExamples.deps.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\EventsExamples.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\EventsExamples.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\EventsExamples.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.sourcelink.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\refint\EventsExamples.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\EventsExamples.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ref\EventsExamples.dll
